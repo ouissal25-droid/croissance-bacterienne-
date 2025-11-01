@@ -1,0 +1,22 @@
+ 
+╔══════════════════════════════════════════════════════════════╗ 
+║          RAPPORT - Croissance bactérienne E. coli            ║ 
+╚══════════════════════════════════════════════════════════════╝ 
+ 
+           Durée expérience : 8.0 heures 
+     Mesures : 17 
+ 
+        RÉSULTATS 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ ━━━━━━━━━━━━━━━━ 
+• DO₆₀₀ initiale        : 0.050 
+• DO₆₀₀ maximale        : 3.630 
+• Temps de doublement   : 51.5 minutes 
+• Phase exponentielle   : 1.0h - 
+4.5h 
+ 
+       CONCLUSION 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ ━━━━━━━━━━━━━━━━ 
+Croissance typique de E. coli avec un temps de doublement  
+de 52 minutes (normal : 20-30 min en milieu riche). 
